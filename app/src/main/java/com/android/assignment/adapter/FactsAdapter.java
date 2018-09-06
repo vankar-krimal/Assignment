@@ -94,3 +94,4 @@ public class FactsAdapter extends RecyclerView.Adapter<FactsAdapter.FactsViewHol
         }
     }
 }
+
